@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Tarun%20Binay%20Das&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <a href="https://linkedin.com/in/Tarun-Binay-Das">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&pause=1000&color=6EA8FE&center=true&vCenter=true&width=600&lines=CSE+Undergrad+%7C+Builder+%7C+Designer;Turning+ideas+into+interactive+experiences;Graphics+Lead+%40+SKEPSIS" />
+  <img src="https://raw.githubusercontent.com/tarun-binay-das/tarun-binay-das/main/assets/tokyo.gif" width="100%" />
 </a>
 
 <!-- TODO: drop your Tokyo gif in here, e.g.:
